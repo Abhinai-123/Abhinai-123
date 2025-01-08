@@ -2,7 +2,7 @@
 <h3 align="center" style="font-style: italic; color: #2c3e50;">A passionate software developer from India</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Blockchain+Enthusiast;IoT+Innovator;Software+Engineer;Lifelong+Learner" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Blockchain+Enthusiast;IoT+Enthusiast;Software+Engineer;Lifelong+Learner" alt="Typing Animation" />
 </p>
 
 ---
